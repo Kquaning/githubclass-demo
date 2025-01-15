@@ -1,3 +1,4 @@
 This is a new code writing
 Making changes to see if Git will track the changes made 
 Adding file to the staging area before committing 
+Changes have been successfully commited

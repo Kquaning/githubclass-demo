@@ -1,2 +1,3 @@
 This is a new file for git
 Adding file to the staging area before committing 
+File changes have successfully been committed
